@@ -1,0 +1,562 @@
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://i.mjh.nz/Plex/all.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" x-tvg-url="http://195.154.221.171/epg/guideiran.xml"
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/100
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/amc.png" group-title="CANAIS FILMES E SERIES",AMC HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/550
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CANAIS FILMES E SERIES",AXN HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/9
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/canalbrasilb.png" group-title="CANAIS FILMES E SERIES",CANAL BRASIL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/71
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cinemax.png" group-title="CANAIS FILMES E SERIES",CINEMAX HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/15
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/fxb.png" group-title="CANAIS FILMES E SERIES",FX HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/76
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/megapixb.png" group-title="CANAIS FILMES E SERIES",MEGAPIX HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/47
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/53
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS FILMES E SERIES",SONY HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/55
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/space.png" group-title="CANAIS FILMES E SERIES",SPACE HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/56
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starchannelb.png" group-title="CANAIS FILMES E SERIES",STAR HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/31
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/starlifeb.png" group-title="CANAIS FILMES E SERIES",STAR LIFE HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/32
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/studiouniversalb.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/60
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/syfy2018.png" group-title="CANAIS FILMES E SERIES",SYFY HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/61
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcm.png" group-title="CANAIS FILMES E SERIES",TCM HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/88
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tnt.png" group-title="CANAIS FILMES E SERIES",TNT HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/20945
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS FILMES E SERIES",TNT SERIES HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/68
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/universaltv.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/69
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/warnerchannel.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/70
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/animalplanet2019.png" group-title="CANAIS DOCUMENTARIOS",ANIMAL PLANET HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverychannelb.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/18
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME&HEALTH HD" tvg-logo="http://telaviva.com.br/wp-content/uploads/2016/04/0040_discovery_hh.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY HOME&HEALTH HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/101
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://seeklogo.com/images/H/hgtv-logo-C6693DCA5A-seeklogo.com.png" group-title="CANAIS DOCUMENTARIOS",HGTV HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/21
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD" tvg-logo="https://uploaddeimagens.com.br/images/003/462/596/thumb/history.png" group-title="CANAIS DOCUMENTARIOS",HISTORY HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/43
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/h2.png" group-title="CANAIS DOCUMENTARIOS",H2 HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/37
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/95
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tlchd.png" group-title="CANAIS DOCUMENTARIOS",TLC HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/89
+#EXTINF:-1 tvg-id="chef.br" tvg-name="CHEF TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cheftv.png" group-title="CANAIS VARIEDADES",CHEF TV HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/117
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/comedycentralb.png" group-title="CANAIS VARIEDADES",COMEDY CENTRAL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/17
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/E-logo-e1454073175729.jpg" group-title="CANAIS VARIEDADES",E! HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/73
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/foodnetwork.png" group-title="CANAIS VARIEDADES",FOOD NETWORK HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/30
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gnt.png" group-title="CANAIS VARIEDADES",GNT HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/80
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/mtvb.png" group-title="CANAIS VARIEDADES",MTV HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/48
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/multishow.png" group-title="CANAIS VARIEDADES",MULTISHOW HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/49
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tbsb.png" group-title="CANAIS VARIEDADES",TBS HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/87
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/trutvb.png" group-title="CANAIS VARIEDADES",TRU TV HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/119
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/viva2018.png" group-title="CANAIS VARIEDADES",VIVA HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/92
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/boomerangb.png" group-title="CANAIS INFANTIL",BOOMERANG HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/13
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/cartoonnetworkb.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/14
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disney.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/25
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyjuniorb.png" group-title="CANAIS INFANTIL",DISNEY JR HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/26
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyxd.png" group-title="CANAIS INFANTIL",DISNEY XD HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/72
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/gloob.png" group-title="CANAIS INFANTIL",GLOOB HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/79
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickjr.png" group-title="CANAIS INFANTIL",NICK JR HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/109
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/nickelodeon.png" group-title="CANAIS INFANTIL",NICKELODEON HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/52
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="RA TIM BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvratimbum.png" group-title="CANAIS INFANTIL",RA TIM BUM HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/91
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tooncast.png" group-title="CANAIS INFANTIL",TOONCAST HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/90
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="CANAIS ABERTO",BAND HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/7
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS ABERTO",RECORD SP HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/209
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="CANAIS ABERTO",SBT HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/86
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordnewsb.png" group-title="CANAIS JORNALISMO",RECORD NEWS HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/84
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS ESPORTES",COMBATE HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/16
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD" tvg-logo="https://uploaddeimagens.com.br/images/002/438/189/full/Globo-SP.png" group-title="CANAIS GLOBO",GLOBO SP HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/98
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hbo.png" group-title="CANAIS - HBO ",HBO HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/39
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hbo2b.png" group-title="CANAIS - HBO ",HBO 2 HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/42
+#EXTINF:-1 tvg-id="hbo.family.3.br" tvg-name="HBO FAMILY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hbofamily.png" group-title="CANAIS - HBO ",HBO FAMILY HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/38
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hbomundib.png" group-title="CANAIS - HBO ",HBO MUNDI HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/44
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hbopopb.png" group-title="CANAIS - HBO ",HBO POP HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/46
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hboplus.png" group-title="CANAIS - HBO ",HBO PLUS HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/40
+#EXTINF:-1 tvg-id="hbo.signature.3.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hbosignatureb.png" group-title="CANAIS - HBO ",HBO SIGNATURE HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/41
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hboxtremeb.png" group-title="CANAIS - HBO ",HBO XTREME HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/45
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcactionb.png" group-title="CANAIS - TELECINE",TELECINE ACTION HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/63
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tccultb.png" group-title="CANAIS - TELECINE",TELECINE CULT HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/64
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcfunb.png" group-title="CANAIS - TELECINE",TELECINE FUN HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/65
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpipocab.png" group-title="CANAIS - TELECINE",TELECINE PIPOCA HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/66
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png" group-title="CANAIS - TELECINE",TELECINE PREMIUM HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/67
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tctouchb.png" group-title="CANAIS - TELECINE",TELECINE TOUCH HD
+http://connecttvapp.xyz:80/mgff386/mgf239161/62
+#EXTINF:-1 tvg-name="AMERICAN DAD" tvg-logo="https://c0.klipartz.com/pngpicture/672/184/sticker-png-television-show-roger-american-dad-pinball-american-dad-season-10-american-idiot-logo.png" group-title="24 HRS  - SERIADOS",AMERICAN DAD
+http://connecttvapp.xyz:80/mgff386/mgf239161/18119
+#EXTINF:-1 tvg-name="BRICKLE BERRY" tvg-logo="https://uploaddeimagens.com.br/images/003/535/729/thumb/brick.png" group-title="24 HRS  - SERIADOS",BRICKLE BERRY
+http://connecttvapp.xyz:80/mgff386/mgf239161/17908
+#EXTINF:-1 tvg-name="CHAVES" tvg-logo="https://uploaddeimagens.com.br/images/003/461/557/thumb/dcb5c8d4c21e8319f21d9e257acbba5f.png" group-title="24 HRS  - SERIADOS",CHAVES
+http://connecttvapp.xyz:80/mgff386/mgf239161/20906
+#EXTINF:-1 tvg-name="DOIS HOMENS E MEIO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/558/thumb/Dois-Homens-e-Meio.png" group-title="24 HRS  - SERIADOS",DOIS HOMENS E MEIO
+http://connecttvapp.xyz:80/mgff386/mgf239161/19972
+#EXTINF:-1 tvg-name="ESCOLHINHA DO PROFESSOR RAIMUNDO 2019" tvg-logo="https://uploaddeimagens.com.br/images/003/535/746/thumb/logo_escolinha_1.png" group-title="24 HRS  - SERIADOS",ESCOLHINHA DO PROFESSOR RAIMUNDO 2019
+http://connecttvapp.xyz:80/mgff386/mgf239161/17912
+#EXTINF:-1 tvg-name="ICARLY" tvg-logo="https://uploaddeimagens.com.br/images/003/461/548/thumb/icarly.png" group-title="24 HRS  - SERIADOS",ICARLY
+http://connecttvapp.xyz:80/mgff386/mgf239161/20962
+#EXTINF:-1 tvg-name="KENAN & KEL" tvg-logo="https://fanart.tv/fanart/tv/74392/clearlogo/KenanKel-74392.png" group-title="24 HRS  - SERIADOS",KENAN & KEL
+http://connecttvapp.xyz:80/mgff386/mgf239161/18188
+#EXTINF:-1 tvg-name="MACGYVER" tvg-logo="https://connecttvapp.xyz/images/LOGOS/macgayver.png" group-title="24 HRS  - SERIADOS",MACGYVER
+http://connecttvapp.xyz:80/mgff386/mgf239161/18094
+#EXTINF:-1 tvg-name="OS RONI" tvg-logo="https://uploaddeimagens.com.br/images/003/461/547/thumb/Os-Roni-RED-600x400.png" group-title="24 HRS  - SERIADOS",OS RONI
+http://connecttvapp.xyz:80/mgff386/mgf239161/20963
+#EXTINF:-1 tvg-name="OS SIMPSONS" tvg-logo="https://connecttvapp.xyz/images/LOGOS/os_simpsons.png" group-title="24 HRS  - SERIADOS",OS SIMPSONS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18098
+#EXTINF:-1 tvg-name="OS SUBURBANOS" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/fcaefb36128661.570ff70389548.png" group-title="24 HRS  - SERIADOS",OS SUBURBANOS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18099
+#EXTINF:-1 tvg-name="OS TRAPALHÕES" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/e/ea/Os_Trapalhoes_1982_slide.png" group-title="24 HRS  - SERIADOS",OS TRAPALHÕES
+http://connecttvapp.xyz:80/mgff386/mgf239161/18209
+#EXTINF:-1 tvg-name="PEGADINHA DO JOÃO KLEBER" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="24 HRS  - SERIADOS",PEGADINHA DO JOÃO KLEBER
+http://connecttvapp.xyz:80/mgff386/mgf239161/18102
+#EXTINF:-1 tvg-name="PEGADINHAS DO SILVIO SANTOS" tvg-logo="https://presleyson.com.br/wp-content/uploads/2020/07/silvio_santos_-800x800-min.png" group-title="24 HRS  - SERIADOS",PEGADINHAS DO SILVIO SANTOS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18104
+#EXTINF:-1 tvg-name="PESADELO NA COZINHA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Jacquin.png" group-title="24 HRS  - SERIADOS",PESADELO NA COZINHA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18105
+#EXTINF:-1 tvg-name="SITIO DO PICA-PAU AMARELO" tvg-logo="http://3.bp.blogspot.com/-05PZju2QF2E/UjPTsRBEWxI/AAAAAAAACxQ/j2OgZQq_Jlw/s400/MarcaSitio.png" group-title="24 HRS  - SERIADOS",SITIO DO PICA-PAU AMARELO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18107
+#EXTINF:-1 tvg-name="SOUTH PARK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042018/untitled-2_304.png" group-title="24 HRS  - SERIADOS",SOUTH PARK
+http://connecttvapp.xyz:80/mgff386/mgf239161/18108
+#EXTINF:-1 tvg-name="THE NOITE" tvg-logo="https://1.bp.blogspot.com/--OmVKM0GqFo/Xpdr2IYilCI/AAAAAAABLE0/QQ5A_Jia3VYQLuTrgvcGcUOG6-flDLZkQCLcBGAsYHQ/s1600/The%2BNoite%2Bem%2BCasa.png" group-title="24 HRS  - SERIADOS",THE NOITE
+http://connecttvapp.xyz:80/mgff386/mgf239161/18110
+#EXTINF:-1 tvg-name="TO DE GRAÇA" tvg-logo="https://static.wixstatic.com/media/2e090e_835a6451c61143a498916f7b527ce99c~mv2.png" group-title="24 HRS  - SERIADOS",TO DE GRAÇA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18112
+#EXTINF:-1 tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://connecttvapp.xyz/images/LOGOS/todo_mundo_odeia_o_cris.png" group-title="24 HRS  - SERIADOS",TODO MUNDO ODEIA O CHRIS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18228
+#EXTINF:-1 tvg-name="TRAIR E COÇAR É SO COMEÇAR" tvg-logo="https://media.fstatic.com/WdshDQkArhfYTPLeJSsxLubzsPY=/210x312/smart/media/movies/covers/2015/08/bonecas-da-noite_t129075.png" group-title="24 HRS  - SERIADOS",TRAIR E COÇAR É SO COMEÇAR
+http://connecttvapp.xyz:80/mgff386/mgf239161/18114
+#EXTINF:-1 tvg-name="TÁ NO AR" tvg-logo="https://media.fstatic.com/64BsSlkWnAi9Z-_N7bZ1lggRahk=/290x478/smart/media/movies/covers/2015/10/ta-no-ar-a-tv-na-tv-2a-temporada_t114387.png" group-title="24 HRS  - SERIADOS",TÁ NO AR
+http://connecttvapp.xyz:80/mgff386/mgf239161/18224
+#EXTINF:-1 tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="https://occ-0-2433-999.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" group-title="24 HRS  - SERIADOS",UM MALUCO NO PEDAÇO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18230
+#EXTINF:-1 tvg-name="VAI QUE COLA" tvg-logo="https://connecttvapp.xyz/images/LOGOS/vai_que_cola.png" group-title="24 HRS  - SERIADOS",VAI QUE COLA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18180
+#EXTINF:-1 tvg-name="101 DALMATAS" tvg-logo="https://uploaddeimagens.com.br/images/003/461/905/thumb/101_dalmatas.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",101 DALMATAS
+http://connecttvapp.xyz:80/mgff386/mgf239161/26744
+#EXTINF:-1 tvg-name="A FAMILIA ADDAMS" tvg-logo="https://uploaddeimagens.com.br/images/003/535/694/thumb/familia_addams.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",A FAMILIA ADDAMS
+http://connecttvapp.xyz:80/mgff386/mgf239161/17853
+#EXTINF:-1 tvg-name="A NOSSA TURMA" tvg-logo="https://uploaddeimagens.com.br/images/003/462/171/thumb/a_nossa_turma.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",A NOSSA TURMA
+http://connecttvapp.xyz:80/mgff386/mgf239161/27079
+#EXTINF:-1 tvg-name="A PEQUENA SEREIA" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Pequena-Sereia-PNG.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",A PEQUENA SEREIA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18211
+#EXTINF:-1 tvg-name="A VIDA MODERNA DE ROCKO" tvg-logo="https://uploaddeimagens.com.br/images/003/535/713/thumb/3640494.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",A VIDA MODERNA DE ROCKO
+http://connecttvapp.xyz:80/mgff386/mgf239161/17855
+#EXTINF:-1 tvg-name="ALADDIN" tvg-logo="https://m.maccosmetics.com.br/media/export/cms/collections/aladdin_enhanced/aladdin_enhanced_m_logo.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",ALADDIN
+http://connecttvapp.xyz:80/mgff386/mgf239161/18118
+#EXTINF:-1 tvg-name="ANIMANIACS " tvg-logo="https://uploaddeimagens.com.br/images/003/462/009/thumb/Animaniacs_logo_complete_with_shading.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",ANIMANIACS 
+http://connecttvapp.xyz:80/mgff386/mgf239161/25842
+#EXTINF:-1 tvg-name="AS AVENTURAS DE TINTIN" tvg-logo="https://uploaddeimagens.com.br/images/003/462/014/thumb/timtim.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",AS AVENTURAS DE TINTIN
+http://connecttvapp.xyz:80/mgff386/mgf239161/25820
+#EXTINF:-1 tvg-name="AS MENINAS SUPERPODEROSAS" tvg-logo="https://e7.pngegg.com/pngimages/933/641/png-clipart-miss-sara-bellum-cartoon-network-television-show-powerpuff-girls-mammal-carnivoran.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",AS MENINAS SUPERPODEROSAS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18149
+#EXTINF:-1 tvg-name="BABY LOONEY TUNES" tvg-logo="https://uploaddeimagens.com.br/images/003/462/156/thumb/baby_looney.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",BABY LOONEY TUNES
+http://connecttvapp.xyz:80/mgff386/mgf239161/27080
+#EXTINF:-1 tvg-name="BATMAN" tvg-logo="https://uploaddeimagens.com.br/images/003/535/720/thumb/batman.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",BATMAN
+http://connecttvapp.xyz:80/mgff386/mgf239161/17858
+#EXTINF:-1 tvg-name="BIBO PAI BOB FILHO" tvg-logo="https://uploaddeimagens.com.br/images/003/535/728/thumb/bibopaibobfilho.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",BIBO PAI BOB FILHO
+http://connecttvapp.xyz:80/mgff386/mgf239161/17907
+#EXTINF:-1 tvg-name="CAPITAO CAVERNA" tvg-logo="https://uploaddeimagens.com.br/images/003/461/977/thumb/Capit%C3%A3o-Caverna-Vetorizado-03.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CAPITAO CAVERNA
+http://connecttvapp.xyz:80/mgff386/mgf239161/25979
+#EXTINF:-1 tvg-name="CAPITAO PLANETA" tvg-logo="https://uploaddeimagens.com.br/images/003/462/016/thumb/captainplanet_400x400.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CAPITAO PLANETA
+http://connecttvapp.xyz:80/mgff386/mgf239161/26011
+#EXTINF:-1 tvg-name="CARMEN SANDIEGO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/913/thumb/Carmen-Sandiego_Circular-Logo-Design.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CARMEN SANDIEGO
+http://connecttvapp.xyz:80/mgff386/mgf239161/26014
+#EXTINF:-1 tvg-name="CASTELO RA-TIM-BUM" tvg-logo="https://ler9.files.wordpress.com/2009/07/castelo_ra_ti_bum_1238085349.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CASTELO RA-TIM-BUM
+http://connecttvapp.xyz:80/mgff386/mgf239161/18173
+#EXTINF:-1 tvg-name="CAVALO DE FOGO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/541/thumb/cavalo_de_fogo.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CAVALO DE FOGO
+http://connecttvapp.xyz:80/mgff386/mgf239161/25638
+#EXTINF:-1 tvg-name="CAVERNA DO DRAGÃO" tvg-logo="https://uploaddeimagens.com.br/images/003/535/743/thumb/Caverna_do_Drag%C3%A3o_Logo.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CAVERNA DO DRAGÃO
+http://connecttvapp.xyz:80/mgff386/mgf239161/17910
+#EXTINF:-1 tvg-name="COELHO RICOCHETE E BLAUBLAU" tvg-logo="https://uploaddeimagens.com.br/images/003/462/152/thumb/coelho-ricochete.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",COELHO RICOCHETE E BLAUBLAU
+http://connecttvapp.xyz:80/mgff386/mgf239161/27081
+#EXTINF:-1 tvg-name="CORAGEM O CÃO COVARDE" tvg-logo="https://w7.pngwing.com/pngs/743/476/png-transparent-courage-the-cowardly-dog-courage-video-courage-the-cowardly-dog-purple-cartoon-fictional-character-thumbnail.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CORAGEM O CÃO COVARDE
+http://connecttvapp.xyz:80/mgff386/mgf239161/18170
+#EXTINF:-1 tvg-name="CORRIDA MALUCA " tvg-logo="https://uploaddeimagens.com.br/images/003/462/013/thumb/corrida_maluca.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CORRIDA MALUCA 
+http://connecttvapp.xyz:80/mgff386/mgf239161/25821
+#EXTINF:-1 tvg-name="DOUG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Disneys-doug.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",DOUG
+http://connecttvapp.xyz:80/mgff386/mgf239161/18182
+#EXTINF:-1 tvg-name="DU DUDU E EDU" tvg-logo="https://uploaddeimagens.com.br/images/003/462/005/thumb/ed_edd_n_eddy_.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",DU DUDU E EDU
+http://connecttvapp.xyz:80/mgff386/mgf239161/25843
+#EXTINF:-1 tvg-name="DUCK TALES- " tvg-logo="https://uploaddeimagens.com.br/images/003/462/022/thumb/duck_tales.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",DUCK TALES- 
+http://connecttvapp.xyz:80/mgff386/mgf239161/25951
+#EXTINF:-1 tvg-name="ESQUILO SEM GRILO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/947/thumb/Esquilo_sem_Grilo__09842_zoom.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",ESQUILO SEM GRILO
+http://connecttvapp.xyz:80/mgff386/mgf239161/26013
+#EXTINF:-1 tvg-name="EU SOU O MAXIMO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/896/thumb/EU_SOU_O_M%C3%81XIMO.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",EU SOU O MAXIMO
+http://connecttvapp.xyz:80/mgff386/mgf239161/26745
+#EXTINF:-1 tvg-name="FAMILIA URSO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/893/thumb/familia_urso.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",FAMILIA URSO
+http://connecttvapp.xyz:80/mgff386/mgf239161/26746
+#EXTINF:-1 tvg-name="FORMIGA ATOMICA" tvg-logo="https://uploaddeimagens.com.br/images/003/535/751/thumb/a-formiga-atomica_t36286.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",FORMIGA ATOMICA
+http://connecttvapp.xyz:80/mgff386/mgf239161/17915
+#EXTINF:-1 tvg-name="GASPARZINHO" tvg-logo="http://1.bp.blogspot.com/-a9YCrOiU1Fg/VG1fVt50izI/AAAAAAAAh8E/GXQH9G0ErjU/w680/Gasparsinho-em-png-queroimagm-cei%C3%A7a-crispim-04.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",GASPARZINHO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18184
+#EXTINF:-1 tvg-name="GATO FELIX" tvg-logo="https://uploaddeimagens.com.br/images/003/462/233/thumb/Gato_F%C3%A9lix.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",GATO FELIX
+http://connecttvapp.xyz:80/mgff386/mgf239161/27082
+#EXTINF:-1 tvg-name="HE-MAN E OS MESTRES DO UNIVERSO" tvg-logo="https://uploaddeimagens.com.br/images/003/462/010/thumb/he-man.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",HE-MAN E OS MESTRES DO UNIVERSO
+http://connecttvapp.xyz:80/mgff386/mgf239161/25841
+#EXTINF:-1 tvg-name="HEY ARNOLD" tvg-logo="https://uploaddeimagens.com.br/images/003/461/999/thumb/hey_arnold.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",HEY ARNOLD
+http://connecttvapp.xyz:80/mgff386/mgf239161/25977
+#EXTINF:-1 tvg-name="HOMEM ARANHA" tvg-logo="https://connecttvapp.xyz/images/LOGOS/homem_aranha.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",HOMEM ARANHA
+http://connecttvapp.xyz:80/mgff386/mgf239161/17996
+#EXTINF:-1 tvg-name="HOMEM DE FERRO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/553/thumb/iron_man_age_of_ultron_by_alexiscabo1-da0k6yo.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",HOMEM DE FERRO
+http://connecttvapp.xyz:80/mgff386/mgf239161/20961
+#EXTINF:-1 tvg-name="HULK" tvg-logo="https://uploaddeimagens.com.br/images/003/461/865/thumb/hulk.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",HULK
+http://connecttvapp.xyz:80/mgff386/mgf239161/26747
+#EXTINF:-1 tvg-name="JAMBO E RUIVÃO" tvg-logo="https://gartic.com.br/imgs/mural/zn/znation/jambo-e-ruivao-2.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",JAMBO E RUIVÃO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18185
+#EXTINF:-1 tvg-name="JHONNY BRAVO" tvg-logo="https://w7.pngwing.com/pngs/750/813/png-transparent-johnny-bravo-television-show-animated-series-powerlifting-cartoons-television-hand-boy.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",JHONNY BRAVO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18187
+#EXTINF:-1 tvg-name="JOÃO GRANDÃO" tvg-logo="https://www.seekpng.com/png/small/267-2678286_grape-ape-joo-grando-e-espirro.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",JOÃO GRANDÃO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18186
+#EXTINF:-1 tvg-name="LEAO DA MONTANHA" tvg-logo="https://i.pinimg.com/originals/b7/7d/21/b77d21aab608e8081e87a2b231d28837.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",LEAO DA MONTANHA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18191
+#EXTINF:-1 tvg-name="LIGA DA JUSTIÇA" tvg-logo="https://uploaddeimagens.com.br/images/003/535/880/thumb/logo-liga-da-justica.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",LIGA DA JUSTIÇA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18090
+#EXTINF:-1 tvg-name="LIGEIRINHO" tvg-logo="https://static.wikia.nocookie.net/acme-arsenal/images/6/64/256px-Speedy_Gonzales.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",LIGEIRINHO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18192
+#EXTINF:-1 tvg-name="LILO & STITCH" tvg-logo="https://seeklogo.com/images/L/lilo-stitch-logo-210BACD504-seeklogo.com.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",LILO & STITCH
+http://connecttvapp.xyz:80/mgff386/mgf239161/18193
+#EXTINF:-1 tvg-name="LULUZINHA" tvg-logo="https://uploaddeimagens.com.br/images/003/458/958/thumb/luluzinha.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",LULUZINHA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18195
+#EXTINF:-1 tvg-name="MAGUILA O GURILA" tvg-logo="https://1.bp.blogspot.com/-kCHxyFB-iOA/V_kzNsB9eVI/AAAAAAAADdM/1TXLBF1HlHshtyzxIMPsQEts3S0AbeKOwCLcB/s400/Untitled.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MAGUILA O GURILA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18194
+#EXTINF:-1 tvg-name="MANDA CHUVA" tvg-logo="https://www.seekpng.com/png/full/95-950119_top-cat-vector-desenho-animado-manda-chuva.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MANDA CHUVA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18229
+#EXTINF:-1 tvg-name="MARCELINO PÃO E VINHO" tvg-logo="https://uploaddeimagens.com.br/images/003/458/969/thumb/marcelino-pao-e-vinho_t36811_1.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MARCELINO PÃO E VINHO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18196
+#EXTINF:-1 tvg-name="MEGA MAN" tvg-logo="https://uploaddeimagens.com.br/images/003/461/983/thumb/5b448279c051e602a568ccde.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MEGA MAN
+http://connecttvapp.xyz:80/mgff386/mgf239161/25978
+#EXTINF:-1 tvg-name="MIB HOMENS DE PRETO" tvg-logo="https://uploaddeimagens.com.br/images/003/462/134/thumb/mib.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MIB HOMENS DE PRETO
+http://connecttvapp.xyz:80/mgff386/mgf239161/27084
+#EXTINF:-1 tvg-name="MICKEY" tvg-logo="https://seeklogo.com/images/M/Mickey_Mouse-logo-FE9D875575-seeklogo.com.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MICKEY
+http://connecttvapp.xyz:80/mgff386/mgf239161/18197
+#EXTINF:-1 tvg-name="MICKEY E DONALD" tvg-logo="https://uploaddeimagens.com.br/images/003/462/043/thumb/mickey_e_donald.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MICKEY E DONALD
+http://connecttvapp.xyz:80/mgff386/mgf239161/27086
+#EXTINF:-1 tvg-name="MORTAL KOMBAT" tvg-logo="https://uploaddeimagens.com.br/images/003/461/530/thumb/Mortal_kombat_logo.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",MORTAL KOMBAT
+http://connecttvapp.xyz:80/mgff386/mgf239161/25670
+#EXTINF:-1 tvg-name="O FANTASTICO MUNDO DE BOB" tvg-logo="https://1.bp.blogspot.com/-8UmgF45cCu0/VNaTLM4HuzI/AAAAAAAB-x8/doSaWtJIJfw/s1600/19.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",O FANTASTICO MUNDO DE BOB
+http://connecttvapp.xyz:80/mgff386/mgf239161/18203
+#EXTINF:-1 tvg-name="O INSPETOR " tvg-logo="https://uploaddeimagens.com.br/images/003/462/046/thumb/o_inspetor.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",O INSPETOR 
+http://connecttvapp.xyz:80/mgff386/mgf239161/27085
+#EXTINF:-1 tvg-name="O LABORATORIO DE DEXTER" tvg-logo="https://uploaddeimagens.com.br/images/003/462/228/thumb/dexter.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",O LABORATORIO DE DEXTER
+http://connecttvapp.xyz:80/mgff386/mgf239161/27083
+#EXTINF:-1 tvg-name="O MÁSKARA" tvg-logo="https://i.pinimg.com/originals/ac/7d/e9/ac7de9030d8f79d386739f61e2575fb7.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",O MÁSKARA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18204
+#EXTINF:-1 tvg-name="O PEQUENO URSO" tvg-logo="https://uploaddeimagens.com.br/images/003/458/165/full/opequenourso.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",O PEQUENO URSO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18213
+#EXTINF:-1 tvg-name="O XODÓ DA VOVÓ" tvg-logo="https://uploaddeimagens.com.br/images/003/461/846/thumb/xodo1.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",O XODÓ DA VOVÓ
+http://connecttvapp.xyz:80/mgff386/mgf239161/27073
+#EXTINF:-1 tvg-name="OGLI E AS BARATAS" tvg-logo="https://uploaddeimagens.com.br/images/003/461/853/full/images_%281%29.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",OGLI E AS BARATAS
+http://connecttvapp.xyz:80/mgff386/mgf239161/27072
+#EXTINF:-1 tvg-name="OS 3 MOSQUETEIROS" tvg-logo="https://www.osmosqueteiros.com.br/logo-osmosqueteiros.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",OS 3 MOSQUETEIROS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18205
+#EXTINF:-1 tvg-name="OS CAEZINHOS DO CANIL" tvg-logo="https://uploaddeimagens.com.br/images/003/462/041/thumb/Os-Caezinhos-do-Canil-Pound-Puppies-800x445.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",OS CAEZINHOS DO CANIL
+http://connecttvapp.xyz:80/mgff386/mgf239161/27087
+#EXTINF:-1 tvg-name="OS FLINSTONES" tvg-logo="https://4.bp.blogspot.com/-F7zmedq3wW8/VvvkSSz_kUI/AAAAAAAA9Dg/JA_12G_6V8w9RY5WC5IMeKLwjGY4wSiGA/s1600/flintstones_logo_1_5.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",OS FLINSTONES
+http://connecttvapp.xyz:80/mgff386/mgf239161/18206
+#EXTINF:-1 tvg-name="OS JETSONS" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/8/82/A_jetsons_logo.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",OS JETSONS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18207
+#EXTINF:-1 tvg-name="OS PADRINHOS MÁGICOS" tvg-logo="https://i.pinimg.com/originals/23/a3/b9/23a3b9e0bb56d22edfd05b8870c7219d.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",OS PADRINHOS MÁGICOS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18208
+#EXTINF:-1 tvg-name="OS VERDADEIROS CAÇA FANTASMAS" tvg-logo="https://uploaddeimagens.com.br/images/003/461/786/thumb/caca_fantasmas.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",OS VERDADEIROS CAÇA FANTASMAS
+http://connecttvapp.xyz:80/mgff386/mgf239161/27075
+#EXTINF:-1 tvg-name="PANTERA COR  DE ROSA" tvg-logo="https://doity.com.br/media/doity/resized/600x315_evento-65990-banner.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",PANTERA COR  DE ROSA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18100
+#EXTINF:-1 tvg-name="PAPALEGUAS E COIOTE" tvg-logo="https://i.pinimg.com/originals/21/53/f0/2153f0cac443bfe849dc36bb3366e1d0.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",PAPALEGUAS E COIOTE
+http://connecttvapp.xyz:80/mgff386/mgf239161/18101
+#EXTINF:-1 tvg-name="PEPE LEGAL" tvg-logo="https://cangaloo.com.br/wp-content/uploads/2020/07/HB34-01-e1595861428449-370x475.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",PEPE LEGAL
+http://connecttvapp.xyz:80/mgff386/mgf239161/18210
+#EXTINF:-1 tvg-name="PERNALONGA" tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/2/26/Classic_bugsbunny.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",PERNALONGA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18214
+#EXTINF:-1 tvg-name="PICA-PAU" tvg-logo="https://www.pngkit.com/png/full/162-1623700_desenhos-do-pica-pau.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",PICA-PAU
+http://connecttvapp.xyz:80/mgff386/mgf239161/18215
+#EXTINF:-1 tvg-name="PINK E CEREBRO" tvg-logo="https://seeklogo.com/images/C/cerebro-desenho-logo-14A0A8C724-seeklogo.com.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",PINK E CEREBRO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18216
+#EXTINF:-1 tvg-name="POPAYE" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2018/06/Popeye-Popeye-4-PNG.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",POPAYE
+http://connecttvapp.xyz:80/mgff386/mgf239161/18218
+#EXTINF:-1 tvg-name="ROCKET POWER" tvg-logo="https://uploaddeimagens.com.br/images/003/462/224/thumb/Rocket_Power_logo-0.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",ROCKET POWER
+http://connecttvapp.xyz:80/mgff386/mgf239161/27076
+#EXTINF:-1 tvg-name="SAILOR MOOM" tvg-logo="https://uploaddeimagens.com.br/images/003/462/038/thumb/sailor_moom.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SAILOR MOOM
+http://connecttvapp.xyz:80/mgff386/mgf239161/27088
+#EXTINF:-1 tvg-name="SAMURAI X" tvg-logo="https://uploaddeimagens.com.br/images/003/461/538/thumb/samuraix.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SAMURAI X
+http://connecttvapp.xyz:80/mgff386/mgf239161/25696
+#EXTINF:-1 tvg-name="SCOOBY-DOO" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/scooby-doo-1-logo.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SCOOBY-DOO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18219
+#EXTINF:-1 tvg-name="SHE-RA" tvg-logo="https://uploaddeimagens.com.br/images/003/462/036/thumb/309-3093840_princess-of-power-image-she-ra-princess-of.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SHE-RA
+http://connecttvapp.xyz:80/mgff386/mgf239161/27089
+#EXTINF:-1 tvg-name="SPEED RACER" tvg-logo="https://www.logolynx.com/images/logolynx/e5/e5f7276e0a0af44aeec4a8ea0561faa9.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SPEED RACER
+http://connecttvapp.xyz:80/mgff386/mgf239161/18221
+#EXTINF:-1 tvg-name="SUPER AMIGOS" tvg-logo="http://2.bp.blogspot.com/-dSQQZVYYSgw/VBY9oGFxWJI/AAAAAAAAADE/PeVxjj2CkK4/s1600/S%C3%BAper%2BAmigos.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SUPER AMIGOS
+http://connecttvapp.xyz:80/mgff386/mgf239161/18109
+#EXTINF:-1 tvg-name="SUPER CHOQUE" tvg-logo="https://mlohrktvfr9b.i.optimole.com/scftOdE.BaVg~16a4d/w:auto/h:auto/q:90/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/adesivo-Super-shock-Static-danilo-the-hype-nerd-stickers.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SUPER CHOQUE
+http://connecttvapp.xyz:80/mgff386/mgf239161/18222
+#EXTINF:-1 tvg-name="SUPER MÁRIO" tvg-logo="https://images.tcdn.com.br/img/img_prod/604201/super_mario_logo_classico_1368_1_20180409174618.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",SUPER MÁRIO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18223
+#EXTINF:-1 tvg-name="TARTARUGA TUCHE" tvg-logo="https://1.bp.blogspot.com/-Xnvwe6GAmeY/V_je6KLbvMI/AAAAAAAADcc/cIJY3F0lpHEu_JFtLos_9fluYhwMJGojgCLcB/s280/2.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TARTARUGA TUCHE
+http://connecttvapp.xyz:80/mgff386/mgf239161/18225
+#EXTINF:-1 tvg-name="TAZMANIA" tvg-logo="https://www.pngkey.com/png/detail/90-902382_taz-mania-logo-taz-skateboard.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TAZMANIA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18226
+#EXTINF:-1 tvg-name="TICO E TECO" tvg-logo="https://storage.googleapis.com/wzukusers/user-32371513/images/5ab12bf14fe1f8OSPalk/LOGO-TICO-E-TECO_d200.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TICO E TECO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18227
+#EXTINF:-1 tvg-name="TIMÃO E PUMBA" tvg-logo="https://e7.pngegg.com/pngimages/1008/498/png-clipart-timon-pumbaa-s-jungle-games-timon-pumbaa-s-jungle-games-animation-animation-thumbnail.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TIMÃO E PUMBA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18111
+#EXTINF:-1 tvg-name="TOM E JERRY" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2021/04/Logo-Tom-And-Jerry-PNG.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TOM E JERRY
+http://connecttvapp.xyz:80/mgff386/mgf239161/18113
+#EXTINF:-1 tvg-name="TRANSFORMERS" tvg-logo="https://uploaddeimagens.com.br/images/003/462/219/thumb/transformers.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TRANSFORMERS
+http://connecttvapp.xyz:80/mgff386/mgf239161/27077
+#EXTINF:-1 tvg-name="TRÊS ESPIÂS DEMAIS" tvg-logo="https://uploaddeimagens.com.br/images/003/461/858/thumb/tres-espias-demais.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TRÊS ESPIÂS DEMAIS
+http://connecttvapp.xyz:80/mgff386/mgf239161/27071
+#EXTINF:-1 tvg-name="TURMA DO BAIRRO" tvg-logo="https://uploaddeimagens.com.br/images/003/535/872/thumb/knd.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TURMA DO BAIRRO
+http://connecttvapp.xyz:80/mgff386/mgf239161/17993
+#EXTINF:-1 tvg-name="TURMA DO PATETA" tvg-logo="https://uploaddeimagens.com.br/images/003/461/539/thumb/Disneygoofy2012.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TURMA DO PATETA
+http://connecttvapp.xyz:80/mgff386/mgf239161/25639
+#EXTINF:-1 tvg-name="TUTUBARÃO" tvg-logo="https://uploaddeimagens.com.br/images/003/461/862/thumb/tutubarao.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TUTUBARÃO
+http://connecttvapp.xyz:80/mgff386/mgf239161/27070
+#EXTINF:-1 tvg-name="TV QUACK" tvg-logo="https://uploaddeimagens.com.br/images/003/462/203/thumb/tv_quack.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",TV QUACK
+http://connecttvapp.xyz:80/mgff386/mgf239161/27078
+#EXTINF:-1 tvg-name="URSINHOS CARINHOSO" tvg-logo="https://uploaddeimagens.com.br/images/003/462/012/thumb/ursinhos_carinhosos.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",URSINHOS CARINHOSO
+http://connecttvapp.xyz:80/mgff386/mgf239161/25831
+#EXTINF:-1 tvg-name="VACA E O FRANGO" tvg-logo="https://mlohrktvfr9b.i.optimole.com/scftOdE.BaVg~16a4d/w:300/h:300/q:90/rt:fill/g:sm/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/Adesivo-super-cow-Nerd-Stickers.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",VACA E O FRANGO
+http://connecttvapp.xyz:80/mgff386/mgf239161/18115
+#EXTINF:-1 tvg-name="WOLVERINE" tvg-logo="https://toppng.com/uploads/preview/wolverine-logo-11550147983ayyatgg84i.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",WOLVERINE
+http://connecttvapp.xyz:80/mgff386/mgf239161/18232
+#EXTINF:-1 tvg-name="ZÉ BUSCAPÉ" tvg-logo="http://1.bp.blogspot.com/-TjF0_7ITlhU/VGuV6nz10sI/AAAAAAAAhyE/bAqT8elrj0M/w680/a-fam%C3%ADlia-buscap%C3%A9-em-png-queroimagem-cei%C3%A7a-crispim.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",ZÉ BUSCAPÉ
+http://connecttvapp.xyz:80/mgff386/mgf239161/18233
+#EXTINF:-1 tvg-name="ZÉ COMÉIA" tvg-logo="https://w7.pngwing.com/pngs/442/899/png-transparent-yogi-bear-boo-boo-ranger-smith-cindy-bear-snagglepuss-others-comics-food-chicken-thumbnail.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",ZÉ COMÉIA
+http://connecttvapp.xyz:80/mgff386/mgf239161/18234
+#EXTINF:-1 tvg-name="CARANGOS E MOTOCAS" tvg-logo="https://uploaddeimagens.com.br/images/003/474/617/thumb/carangos-e-motocas-completo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.png" group-title="24 HRS  - DESENHOS CLÁSSICOS",CARANGOS E MOTOCAS
+http://connecttvapp.xyz:80/mgff386/mgf239161/63613
+#EXTINF:-1 tvg-logo="https://imgur.com/RaSZCuy.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Clássicos | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Comédia | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://imgur.com/q17ntdH.png" group-title="Brasil: cinema em português",Cine Drama | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Família | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Romance | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="Brasil: cinema em português",Cine Sucessos | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://imgur.com/CaNAHVg.png" group-title="Brasil: cinema em português",Cine Terror | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userIserverSideAds=true
+
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema em português",DarkFlix HD | Brasil
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/GEaW5zX.png" group-title="Brasil: cinema em português",Dark Matter TV | Brasil
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Brasil: cinema em português",Filmes Ação | Pluto TV Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s2Yf4FR.png" group-title="Brasil: cinema em português",Filmes de ação | Brasil
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/featuredImage.jpg" group-title="Brasil: cinema em português",Filmes Nacionais | Pluto TV Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/featuredImage.jpg" group-title="Brasil: cinema em português",Filmes Suspense | Pluto TV Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema em português",MyTime Movie Network | Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime | Brasil
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QapVmCb.png" group-title="Brasil: cinema em português",Soul Cine Clube | Brasil 
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+####################### Brasil crianças kids teen adolescentes ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis #####################
+
+#EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://imgur.com/iu4Xbjd.png" group-title="Brasil: infanto-juvenis",A vida moderna de Rocko | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="Brasil: infanto-juvenis",Anime Pluto TV | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Anime Ação - Pluto TV | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="animetv.br" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="Brasil: infanto-juvenis",Anime TV | Brasil 
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",As Aventuras de Jackie Chan | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://imgur.com/bHhxhRb.png" group-title="Brasil: infanto-juvenis",As Pistas de Blue | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848730-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9f2c6ce-d387-42e3-a5c5-c919c5d33252&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Babyfirst | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WklXZlV.png" tvg-shift="0" group-title="Brasil: infanto-juvenis",Clubinho Fun | Brasil
+http://45.165.178.82:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: infanto-juvenis",Desenhos antigos 1 | Brasil
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Brasil: infanto-juvenis",Os Jetsons | Brasil
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Brasil: infanto-juvenis",Junior | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://imgur.com/g505N5r.png" group-title="Brasil: infanto-juvenis",Kids | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Brasil: infanto-juvenis",Loading TV | Brasil
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://imgur.com/046zDW4.png" group-title="Brasil: infanto-juvenis",Naruto | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://imgur.com/z2Fwd4q.png" group-title="Brasil: infanto-juvenis",Nick Clássico | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Brasil: infanto-juvenis",Nick Jr. Club | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QwPiPlI.png" group-title="Brasil: infanto-juvenis",Rakuten Família | Portugal
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",O Reino Infantil | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Brasil: infanto-juvenis",Retrô Cartoon | Brasil 
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KR7jocA.png" group-title="Brasil: infanto-juvenis",Toon Google | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://i1.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Brasil: infanto-juvenis",Tokusato | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Brasil: infanto-juvenis",Turma da Mônica | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+
+
+############################### Brasil: seriados e humor ############################### Brasil: seriados e humor ############################### Brasil: seriados e humor ############################### Brasil: seriados e humor ############################### Brasil: seriados e humor ############################### Brasil: seriados e humor 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKs0QN3.png" group-title="Brasil: seriados e humor",A Mulher Biônica | Brasil
+https://stmv1.srvstm.com/tvserie2/tvserie2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/featuredImage.jpg" group-title="Brasil: seriados e humor",Being Mary Jane | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: seriados e humor",BET | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Canal29.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Brasil: seriados e humor",Canal 29 - séries antigas | Brasil
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzhlJvq.png" group-title="Brasil: seriados e humor",CHiPs | Brasil
+https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1196851353.m3u8
+
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" group-title="Brasil: seriados e humor" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/featuredImage.jpg",Comédia | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" group-title="Brasil: seriados e humor" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/featuredImage.jpg",Comedy Central | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://imgur.com/zkifc9i.png" group-title="Brasil: seriados e humor",FailArmy | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZER6vsV.png" group-title="Brasil: seriados e humor",Guerra, sombra e água fresca - Hogan's Heroes | Brasil
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: seriados e humor",Investigação | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/featuredImage.jpg" group-title="Brasil: seriados e humor",Jeannie é um Gênio | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/featuredImage.jpg" group-title="Brasil: seriados e humor",Kenan e Kel | Pluto TV Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KVnKtsL.png" group-title="Brasil: seriados e humor",Nashville | Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OyoFlg.png" group-title="Brasil: seriados e humor",(As) Panteras (1976 - 1981) | Brasil
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="Brasil: seriados e humor",People are Awesome | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Brasil: seriados e humor",Porta dos Fundos | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Rp5u64.png" group-title="Brasil: seriados e humor",Star Trek | Brasil
+https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="5f99ac4fded33000078f29ab" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/featuredImage.jpg" group-title="Brasil: seriados e humor",Star Trek | Brasil - Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://i.imgur.com/6ycpYth.jpg" group-title="Brasil: seriados e humor",South Park | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://imgur.com/ZC9x6Yf.png" group-title="Brasil: seriados e humor",The Pet Collective | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://imgur.com/Bxf8Gwu.png" group-title="Brasil: seriados e humor",Retrô | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Brasil: seriados e humor",Séries | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
